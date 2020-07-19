@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on ... Peoplebox
 - 🌱 I’m currently learning ... Typescript
-- 👯 I’m looking to collaborate on ... Typescript
-- 🤔 I’m looking for help with ... Typescript
+- 👯 I’m looking to collaborate on ... Open Source Projects
+- 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... JavaScript
 - 📫 How to reach me: ... [My website](https://nirnejak.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Falled in love with Tacos
+- ⚡ Fun fact: ... love Tacos
