@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... `GraphQL`
 - 💬 Ask me about ... `JavaScript`
 - 📫 How to reach me: ... [My website](https://nirnejak.com)
-- ⚡ Fun fact: ... I ❤️ tacos 🌮
+- ⚡ Fun fact: ... I love tacos 🌮
 
 ### Recent Blogs
 
