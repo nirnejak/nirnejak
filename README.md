@@ -1,9 +1,9 @@
 ### Here's what I'm working on 👋
 
-- 🔭 I’m currently working on ... `Goldeneye`
+- 🔭 I’m currently working on ... `Goldeneye, Saleor Storefront`
 - 🌱 I’m currently learning ... `React Testing Library, React Query, GraphQL`
 - 👯 I’m looking to collaborate on ... `Open Source Projects`
-- 🤔 I’m looking for help with ... `Unit and Integration Testing`
+- 🤔 I’m looking for help with ... `Unit Testing`
 - 💬 Ask me about ... `JavaScript`
 - 📫 How to reach me: ... [Visit my website](https://nirnejak.com)
 - ⚡ Fun fact: ... I love tacos 🌮
