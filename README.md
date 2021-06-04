@@ -10,6 +10,6 @@
 
 ### Recent Blogs
 
+- [Gatsby 3 Image - A Deep-dive into the new image API features](https://www.inkoop.io/blog/gatsby-3-image-a-deep-dive-into-the-new-image-api-features/)
 - [How to integrate Gatsby with Shopify Store](https://www.inkoop.io/blog/how-to-integrate-gatsby-with-shopify-store/)
 - [Setup ESLint for React with Prettier, pre-commit and VSCode](https://www.inkoop.io/blog/setup-eslint-for-react-with-prettier-pre-commit-and-vscode/)
-- [Forms that don't suck | How to ensure great user experience on forms](https://www.inkoop.io/blog/how-to-ensure-great-user-experience-on-forms/)
