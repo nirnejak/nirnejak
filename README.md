@@ -1,7 +1,7 @@
 ### Here's what I'm working on 👋
 
 - 🔭 I’m currently working on ... `Draxlr`
-- 🌱 I’m currently learning ... `TypeScript and GraphQL`
+- 🌱 I’m currently learning ... `Testing and TypeScript`
 - 👯 I’m looking to collaborate on ... `Open Source Projects`
 - 🤔 I’m looking for help with ... `Node.js and GraphQL`
 - 💬 Ask me about ... `Gatsby` and `GraphQL`
