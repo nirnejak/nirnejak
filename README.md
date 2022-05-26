@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on ... [Draxlr](https://draxlr.com/)
 - 🌱 I’m currently learning ... `Testing and TypeScript`
 - 👯 I’m looking to collaborate on ... `Open Source Projects`
-- 🤔 I’m looking for help with ... `Node.js and GraphQL`
-- 💬 Ask me about ... `Gatsby` and `GraphQL`
+- 🤔 I’m looking for help with ... `Node.js and TypeScript`
+- 💬 Ask me about ... `Data Visualization` and `Web Animations`
 - 📫 How to reach me: ... [Visit my website](https://nirnejak.com)
 - ⚡ Fun fact: ... I love tacos 🌮
 
