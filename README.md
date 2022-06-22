@@ -1,9 +1,9 @@
 ### Here's what I'm working on 👋
 
 - 🔭 I’m currently working on ... [Draxlr](https://draxlr.com/)
-- 🌱 I’m currently learning ... `Testing and TypeScript`
+- 🌱 I’m currently learning ... `TypeScript and Prisma`
 - 👯 I’m looking to collaborate on ... `Open Source Projects`
-- 🤔 I’m looking for help with ... `Node.js and TypeScript`
+- 🤔 I’m looking for help with ... `TypeScript`
 - 💬 Ask me about ... `Data Visualization` and `Web Animations`
 - 📫 How to reach me: ... [Visit my website](https://nirnejak.com)
 - ⚡ Fun fact: ... I love tacos 🌮
