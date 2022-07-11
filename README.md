@@ -7,6 +7,8 @@
 - 📫 How to reach me: ... [Visit my website](https://nirnejak.com)
 - ⚡ Fun fact: ... I love tacos 🌮
 
+<em>I perfer mechanical watches and keyboards</em>
+
 ### Recent Blogs
 
 - [Gatsby 3 Image - A Deep-dive into the new image API features](https://www.inkoop.io/blog/gatsby-3-image-a-deep-dive-into-the-new-image-api-features/)
