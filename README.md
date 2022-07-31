@@ -1,7 +1,7 @@
 ### Here's what I'm working on 👋
 
 - 🔭 I’m currently working on ... [Draxlr](https://draxlr.com/)
-- 🌱 I’m currently learning ... `TypeScript` and `Prisma`
+- 🌱 I’m currently experimenting with ... `Go`
 - 👯 I’m looking to collaborate on ... `Open Source Projects`
 - 💬 Ask me about ... `Data Visualization` and `Web Animations`
 - 📫 How to reach me: ... [Visit my website](https://nirnejak.com)
