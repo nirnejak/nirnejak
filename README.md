@@ -5,9 +5,7 @@
 - 👯 I’m looking to collaborate on ... `Open Source Projects`
 - 💬 Ask me about ... `Data Visualization` and `Web Animations`
 - 📫 How to reach me: ... [Visit my website](https://nirnejak.com)
-- ⚡ Fun fact: ... I love tacos 🌮
-
-<em>I perfer mechanical watches and keyboards</em>
+- ⚡ Fun fact: ... <em>I perfer mechanical watches and keyboards</em>
 
 ### Recent Blogs
 
