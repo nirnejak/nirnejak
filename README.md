@@ -9,6 +9,7 @@
 
 ### Recent Blogs
 
+- [Postgres JSON data type and how to query it?](https://www.draxlr.com/blogs/postgres-json-data-type-and-how-to-query-it/)
 - [Build Dashboards and Setup Slack Alerts on your PlanetScale Database](https://www.draxlr.com/blogs/build-dashboards-and-setup-slack-alerts-on-your-planetScale-database/)
 - [Gatsby 3 Image - A Deep-dive into the new image API features](https://www.inkoop.io/blog/gatsby-3-image-a-deep-dive-into-the-new-image-api-features/)
 - [How to integrate Gatsby with Shopify Store](https://www.inkoop.io/blog/how-to-integrate-gatsby-with-shopify-store/)
