@@ -9,6 +9,7 @@
 
 ### Recent Blogs
 
+- [Postgres hstore vs JSON - comparing different unstructured data types in PostgreSQL](https://www.draxlr.com/blogs/postgres-hstore-vs-json-comparing-different-unstructured-data-types-in-postgresql/)
 - [Postgres HStore data type and how to use it?
 ](https://www.draxlr.com/blogs/postgres-hstore-data-type-and-how-to-use-it/)
 - [Postgres JSON data type and how to query it?](https://www.draxlr.com/blogs/postgres-json-data-type-and-how-to-query-it/)
