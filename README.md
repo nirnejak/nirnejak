@@ -13,5 +13,4 @@
 - [Postgres HStore data type and how to use it?
 ](https://www.draxlr.com/blogs/postgres-hstore-data-type-and-how-to-use-it/)
 - [Postgres JSON data type and how to query it?](https://www.draxlr.com/blogs/postgres-json-data-type-and-how-to-query-it/)
-- [How to integrate Gatsby with Shopify Store](https://www.inkoop.io/blog/how-to-integrate-gatsby-with-shopify-store/)
 - [Setup ESLint for React with Prettier, pre-commit and VSCode](https://www.inkoop.io/blog/setup-eslint-for-react-with-prettier-pre-commit-and-vscode/)
