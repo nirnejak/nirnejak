@@ -9,6 +9,7 @@
 
 ### Recent Blogs
 
+- [Express.js vs Fastify - In-Depth Comparison of the Frameworks](https://www.inkoop.io/blog/express-vs-fastify-in-depth-comparison-of-node-js-frameworks/)
 - [Postgres hstore vs JSON - comparing different unstructured data types in PostgreSQL](https://www.draxlr.com/blogs/postgres-hstore-vs-json-comparing-different-unstructured-data-types-in-postgresql/)
 - [Postgres HStore data type and how to use it?
 ](https://www.draxlr.com/blogs/postgres-hstore-data-type-and-how-to-use-it/)
