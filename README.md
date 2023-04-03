@@ -1,11 +1,10 @@
 ### Here's what I'm working on 👋
 
 - 🔭 I’m currently working on ... [Draxlr](https://draxlr.com/)
-- 🧪 I’m currently experimenting with ... `Raycast`
+- 🧪 I’m currently experimenting with ... `Raycast AI`
 - 👯 I’m looking to collaborate on ... `Open Source Projects`
 - 💬 Ask me about ... `Data Visualization` and `Web Animations`
 - 📫 How to reach me: ... [Visit my website](https://nirnejak.com)
-- ⚡ Fun fact: ... <em>I perfer mechanical watches and keyboards</em>
 
 ### Popular Blogs
 
@@ -15,3 +14,5 @@
 - [Forms that don't suck | How to ensure great user experience on forms](https://www.inkoop.io/blog/how-to-ensure-great-user-experience-on-forms/)
 - [AdminJS - a Modern Admin Panel for Node JS | React based Admin Panel
 ](https://www.inkoop.io/blog/adminjs-a-modern-admin-panel-for-node-js/)
+
+*[View All](https://nirnejak.com/blogs/)*
