@@ -14,5 +14,3 @@
 - [Forms that don't suck | How to ensure great user experience on forms](https://www.inkoop.io/blog/how-to-ensure-great-user-experience-on-forms/)
 - [AdminJS - a Modern Admin Panel for Node JS | React based Admin Panel
 ](https://www.inkoop.io/blog/adminjs-a-modern-admin-panel-for-node-js/)
-
-*[View All](https://nirnejak.com/blogs/)*
