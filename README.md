@@ -1,8 +1,8 @@
 ### Here's what's going on 👋
 
-- 🔭 Working on ... [Draxlr](https://draxlr.com/)
 - 🧪 Experimenting with ... `Raycast AI`
-- 📫 Reach me on [my website](https://nirnejak.com)
+- 🔭 Working on ... [Draxlr](https://draxlr.com/)
+- 🖥️ Visit [my website](https://nirnejak.com)
 
 ### Popular Blogs
 
