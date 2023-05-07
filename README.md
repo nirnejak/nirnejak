@@ -1,6 +1,6 @@
 **Here's what's going on 👋**
 
-- 🧪 Experimenting with ... `Raycast AI`
+- 🧪 Experimenting with ... `Raycast AI` and `React Server Components`
 - 👨‍💻 Working on ... [Draxlr](https://draxlr.com/)
 - 🌏 Visit [my website](https://nirnejak.com)
 
