@@ -1,7 +1,7 @@
 **Here's what's going on 👋**
 
-- 🧪 Experimenting with ... `React Server Components` & `Vercel Storage`
-- 👨‍💻 Working on ... [Draxlr](https://draxlr.com/)
+- 🧪 Experimenting with `React Server Components` & `Vercel Storage`
+- 👨‍💻 Working on [Draxlr](https://draxlr.com/)
 - 🌏 Visit [my website](https://nirnejak.com)
 
 **Popular Blogs**
