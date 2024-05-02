@@ -1,8 +1,6 @@
-**Here's what's going on 👋**
+**Crafting interfaces with React and TypeScript**
 
-- 🧪 Experimenting with `SwiftUI`
-- 👨‍💻 Working on [Draxlr](https://draxlr.com/)
-- 🌏 Visit [my website](https://nirnejak.com)
+Visit [my website](https://nirnejak.com)
 
 **Popular Blogs**
 
