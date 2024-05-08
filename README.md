@@ -1,6 +1,4 @@
-**Crafting interfaces with React and TypeScript**
-
-Visit [my website](https://nirnejak.com)
+**Crafting interfaces with React and TypeScript,** visit [my website](https://nirnejak.com)
 
 **Popular Blogs**
 
