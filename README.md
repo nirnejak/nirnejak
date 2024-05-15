@@ -1,3 +1,5 @@
+<br>
+
 <h3 align="center">Crafting interfaces with React and TypeScript 🎨</h3>
 
 <br>
@@ -5,8 +7,6 @@
 **Popular Projects**
 - [Tailwind Animations](https://tw-animations.vercel.app/)
 - [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
-
-<br>
 
 **Popular Blogs**
 
