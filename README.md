@@ -1,5 +1,9 @@
 **Crafting interfaces with React and TypeScript,** visit [my website](https://nirnejak.com)
 
+**Popular Projects**
+- [Tailwind Animations](https://tw-animations.vercel.app/)
+- [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
+
 **Popular Blogs**
 
 - [SVG Basics - Elements, Styling, Transformation & Animations](https://www.inkoop.io/blog/svg-basics-element-styling-transformation-animations/)
