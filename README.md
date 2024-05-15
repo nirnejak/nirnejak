@@ -1,8 +1,14 @@
-**Crafting interfaces with React and TypeScript,** visit [my website](https://nirnejak.com)
+<h1 align="center">Crafting interfaces with React and TypeScript 🎨</h1>
+
+Visit [my website](https://nirnejak.com)
+
+<br>
 
 **Popular Projects**
 - [Tailwind Animations](https://tw-animations.vercel.app/)
 - [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
+
+<br>
 
 **Popular Blogs**
 
