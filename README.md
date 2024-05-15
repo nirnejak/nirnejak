@@ -1,4 +1,4 @@
-<h1 align="center">Crafting interfaces with React and TypeScript 🎨</h1>
+<h3 align="center">Crafting interfaces with React and TypeScript 🎨</h3>
 
 <br>
 
