@@ -1,7 +1,5 @@
 <h1 align="center">Crafting interfaces with React and TypeScript 🎨</h1>
 
-Visit [my website](https://nirnejak.com)
-
 <br>
 
 **Popular Projects**
@@ -18,3 +16,7 @@ Visit [my website](https://nirnejak.com)
 - [Forms that don't suck | How to ensure great user experience on forms](https://www.inkoop.io/blog/how-to-ensure-great-user-experience-on-forms/)
 - [AdminJS - a Modern Admin Panel for Node JS | React based Admin Panel
 ](https://www.inkoop.io/blog/adminjs-a-modern-admin-panel-for-node-js/)
+
+<br>
+
+Visit [my website](https://nirnejak.com) to learn more.
