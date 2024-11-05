@@ -1,6 +1,6 @@
 <br>
 
-<h3 align="center">Crafting interfaces with React and TypeScript 🎨</h3>
+<h3 align="center">freelance ✦ developer ✦ designer  ✦ interfaces ✦ websites ✦ web animations</h3>
 
 <br>
 
