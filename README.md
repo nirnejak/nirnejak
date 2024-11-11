@@ -1,6 +1,6 @@
 <br>
 
-<h3 align="center">freelance ✦ developer ✦ designer  ✦ interfaces ✦ websites ✦ animations</h3>
+<h3 align="center">independent ✦ developer ✦ designer  ✦ interfaces ✦ websites ✦ animations</h3>
 
 <br>
 
