@@ -4,7 +4,7 @@
 
 <br>
 
-**Popular Projects**
+**Popular Side Projects**
 - [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
 - [Tailwind Animations](https://tw-animations.vercel.app/)
 
