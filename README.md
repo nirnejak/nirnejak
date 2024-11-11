@@ -4,7 +4,7 @@
 
 <br>
 
-**Popular Side Projects**
+**Cooking on the Side**
 - [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
 - [Tailwind Animations](https://tw-animations.vercel.app/)
 
