@@ -6,7 +6,7 @@
 
 **Cooking on the Side**
 - [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
-- [Tailwind Animations](https://tailwindanimations.vercel.app/)
+- [TailwindCSS Animations](https://tailwindanimations.vercel.app/)
 - [Interactive Interfaces](https://interactive-interfaces.vercel.app/)
 
 
