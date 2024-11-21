@@ -6,8 +6,9 @@
 
 **Cooking on the Side**
 - [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
-- [TailwindCSS Animations](https://tailwindanimations.vercel.app/)
 - [Interactive Interfaces](https://interactive-interfaces.vercel.app/)
+- [TailwindCSS Animations](https://tailwindanimations.vercel.app/)
+
 
 
 **Popular Blogs**
