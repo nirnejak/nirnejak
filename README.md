@@ -5,10 +5,10 @@
 <br>
 
 **Cooking on the Side**
-- [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/)
-- [Interactive Interfaces](https://interactive-interfaces.vercel.app/)
-- [Done Done(WIP)](https://done-done-beta.vercel.app/)
-- [TailwindCSS Animations(WIP)](https://tailwindanimations.vercel.app/)
+- [SVG Animations Gallery](https://svg-animations-gallery.vercel.app/) - A gallery of SVG illustrations animated with Framer Motion
+- [Interactive Interfaces](https://interactive-interfaces.vercel.app/) - UI Experiments with Framer Motion
+- [Done Done(WIP)](https://done-done-beta.vercel.app/) - A Simple Stupid Interactive Todo List
+- [TailwindCSS Animations(WIP)](https://tailwindanimations.vercel.app/) - Copy Paste animation for Tailwind(currently upgrading for Tailwind v4)
 
 
 
