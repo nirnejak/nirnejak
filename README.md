@@ -1,6 +1,6 @@
 <br>
 
-<h3 align="center">independent ✦ developer ✦ designer  ✦ interfaces ✦ websites ✦ web animations</h3>
+<h3 align="center">developer ✦ designer ✦ founder  ✦ interfaces ✦ websites ✦ web animations</h3>
 
 <p align="center"> Building <a href="https://invoy.work/">Invoy</a> - Create, send and track beautiful invoices </p>
 
