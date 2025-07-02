@@ -1,8 +1,8 @@
 <br>
 
-<h3 align="center">developer ✦ designer ✦ founder  ✦ interfaces ✦ websites ✦ web animations</h3>
+<h3 align="center">developer ✦ designer ✦ founder</h3>
 
-<p align="center"> Building <a href="https://invoy.work/">Invoy</a> - Create, send and track beautiful invoices </p>
+<p align="center"> Running <a href="https://oven.studio/">Oven Studio</a>, Building <a href="https://invoy.work/">Invoy</a></p>
 
 <br>
 <br>
